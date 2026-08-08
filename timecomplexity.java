@@ -1,4 +1,4 @@
-public class TimeComplexity {
+public class Timecomplexity {
     public static void main(String[] args) {
         // Example of O(n) time complexity
         int n = 1000;
