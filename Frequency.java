@@ -23,7 +23,7 @@ class Frequency {
                     }
                 }
 
-                System.out.println(a[i] + " occurs " + count + " times");
+                System.out.println(a[i] + " occurs " + count + " time's");
             }
         }
     }
