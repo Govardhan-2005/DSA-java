@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class StudentList {
     public static void main(String[] args) {
-        try (Scanner sc = new Scanner(System.in)) {
+        try (var sc = new Scanner(System.in)) {
             ArrayList<String> students = new ArrayList<String>();
 
             System.out.print("Enter number of students: ");
