@@ -1,4 +1,4 @@
-public class Mergesort {
+public class Mergesort {//algorithm to sort an array using merge sort technique
 
     static void merge(int[] arr, int left, int mid, int right) {
 
