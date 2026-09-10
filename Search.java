@@ -1,5 +1,5 @@
 
-static void search(int value) {
+/*static void search(int value) {
 
     Node temp = head;
 
@@ -14,4 +14,4 @@ static void search(int value) {
     }
 
     System.out.println("Element not found");
-}
+}*/
